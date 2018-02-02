@@ -142,11 +142,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33870732"
-     inkscape:cx="753.97574"
-     inkscape:cy="739.97463"
+     inkscape:zoom="2.7096586"
+     inkscape:cx="589.27875"
+     inkscape:cy="572.17522"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5768"
+     inkscape:current-layer="g1678"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="749"
@@ -505,10 +505,10 @@
                    y="62.310432"
                    id="text1341"><tspan
                      sodipodi:role="line"
-                     x="30.028765"
+                     x="30.028763"
                      y="62.310432"
                      style="font-size:3.17499995px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-                     id="tspan1355">Retire toutes mes tuiles </tspan><tspan
+                     id="tspan1355">Retire toutes les tuiles </tspan><tspan
                      sodipodi:role="line"
                      x="29.523369"
                      y="75.539597"
@@ -1126,8 +1126,8 @@
                      x="179.78854"
                      y="146.9473"
                      style="font-size:3.17499995px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-                     dy="-10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-                     id="tspan1816-9">dans le sens horraire</tspan></text>
+                     dy="-10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+                     id="tspan1816-9">dans le sens horaire</tspan></text>
                 <path
                    sodipodi:nodetypes="csc"
                    inkscape:connector-curvature="0"
@@ -1189,8 +1189,8 @@
                      x="130.25102"
                      y="147.00801"
                      style="font-size:3.17499995px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-                     dy="-10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-                     id="tspan1816">dans le sens anti-horraire</tspan></text>
+                     dy="-10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+                     id="tspan1816">dans le sens anti-horaire</tspan></text>
                 <path
                    sodipodi:nodetypes="csc"
                    inkscape:connector-curvature="0"
