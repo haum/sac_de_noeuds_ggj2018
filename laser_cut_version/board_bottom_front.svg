@@ -15,7 +15,7 @@
    version="1.1"
    id="svg863"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="board_bottom.svg">
+   sodipodi:docname="board_bottom_front.svg">
   <defs
      id="defs857" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25401212"
-     inkscape:cx="849.87579"
-     inkscape:cy="500.53057"
+     inkscape:zoom="0.35922739"
+     inkscape:cx="606.9453"
+     inkscape:cy="755.94153"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="960"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -64,7 +64,8 @@
      sodipodi:insensitive="true">
     <g
        transform="translate(-1.1387159e-6,-6.4487241e-6)"
-       id="g1408">
+       id="g1408"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -116,7 +117,8 @@
     </g>
     <g
        transform="translate(-36.372999,62.999988)"
-       id="g1408-7">
+       id="g1408-7"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -168,7 +170,8 @@
     </g>
     <g
        transform="translate(36.373,62.999988)"
-       id="g1408-0">
+       id="g1408-0"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -220,7 +223,8 @@
     </g>
     <g
        transform="translate(72.746101,125.99998)"
-       id="g1408-7-0">
+       id="g1408-7-0"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -272,7 +276,8 @@
     </g>
     <g
        transform="translate(36.373101,188.99999)"
-       id="g1408-7-5">
+       id="g1408-7-5"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -324,7 +329,8 @@
     </g>
     <g
        transform="translate(-36.372999,188.99998)"
-       id="g1408-7-6">
+       id="g1408-7-6"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -376,7 +382,8 @@
     </g>
     <g
        transform="translate(-72.745999,125.99998)"
-       id="g1408-7-3">
+       id="g1408-7-3"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -428,7 +435,8 @@
     </g>
     <g
        transform="translate(-109.119,62.999988)"
-       id="g1408-7-38">
+       id="g1408-7-38"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -480,7 +488,8 @@
     </g>
     <g
        transform="translate(-109.119,189)"
-       id="g1408-7-4">
+       id="g1408-7-4"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -532,7 +541,8 @@
     </g>
     <g
        transform="translate(109.1191,62.999993)"
-       id="g1408-7-44">
+       id="g1408-7-44"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -584,7 +594,8 @@
     </g>
     <g
        transform="translate(109.1191,188.99998)"
-       id="g1408-7-8">
+       id="g1408-7-8"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -636,7 +647,8 @@
     </g>
     <g
        transform="translate(1.8612841e-6,251.99999)"
-       id="g1408-7-83">
+       id="g1408-7-83"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal">
       <ellipse
          ry="1.6747069"
          rx="1.6746199"
@@ -1225,15 +1237,6 @@
        r="12.367708" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect1640"
-       width="356.90546"
-       height="425.73544"
-       x="16.980408"
-       y="6.1320996"
-       ry="15"
-       rx="15" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect1727"
        width="3"
        height="30.000002"
@@ -1260,5 +1263,20 @@
        height="30.000002"
        x="248.2267"
        y="382.99963" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Helpers"
+     sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1640"
+       width="356.90549"
+       height="425.73544"
+       x="16.980408"
+       y="6.1320996"
+       ry="15"
+       rx="15" />
   </g>
 </svg>
